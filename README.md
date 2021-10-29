@@ -3,6 +3,10 @@
 I am begopeople
 
 <p align="">
+  <a href="https://www.facebook.com/ahmad.nurhidayat.50309/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  
   <a href="mailto:begopeoplee@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
@@ -17,10 +21,6 @@ I am begopeople
 
   <a href="https://wa.me/6281227856788">
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
-
-  <a href="https://www.facebook.com/ahmad.nurhidayat.50309/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 
   <a href="https://twitter.com/begopeoplee">
